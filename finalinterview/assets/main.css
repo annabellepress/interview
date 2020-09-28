@@ -1,0 +1,229 @@
+body {
+	background-color: white;
+
+}
+header {
+	text-align: left;
+	font-family: avenir;
+	font-size: 16px;
+	line-height: 12px;
+	padding-top: 15px;
+	color: black;
+	margin-left: 45px;
+}
+.annabelle {
+	font-size: 16px;
+	font-family: avenir;
+	padding-bottom: 30px; 
+	margin-left: 45px;
+}
+}
+.first-letter {
+	font-size: 75px;
+	font-family: didot;
+	margin-left: 45px;
+}
+h1 {
+	font-size: 50px;
+	text-align: left;
+	font-family: didot;
+	line-height: 28px;
+	margin-left: 45px;
+	color: cadetblue;
+}
+.inspiration {
+	text-align: left;
+	font-size: 20px;
+	font-family: avenir;
+	padding-bottom: 15px;
+	color: black;
+	margin-left: 45px;
+}
+.intro-container {
+	columns: 2;
+	column-gap: 25px;
+	padding-bottom: 40px;
+	margin-left: 45px;
+	margin-right: 45px;
+	font-family: baskerville;
+	text-indent: 25px;
+	line-height: 20px;
+	font-size: 18px;
+}
+.intrinsic {
+	font-size: 32px;
+	padding-bottom: 15px;
+	padding-top: 60px;
+	font-family: didot;
+	text-align: left;
+	color: cadetblue;
+	margin-left: 45px;
+}
+.question-container {
+	text-align: right;
+	font-family: avenir;
+	margin-left: 380px;
+	margin-right: 80px;
+	padding-bottom: 40px;
+	font-size: 18px;
+	border-style: solid;
+	border-left: 380px;
+	border-right: 80px;
+	border-color: cadetblue;
+
+}
+.question {
+	padding-bottom: 15px;
+	padding-top: 18px;
+	font-style: italic;
+}
+.rational {
+	text-align: right;
+	font-size: 28px;
+	font-family: didot;
+	margin-right: 75px;
+	padding-bottom: 28px;
+	color: cadetblue;
+
+}
+.name {
+	font-family: didot;
+	font-size: 32px;
+	color: dimgrey;
+}
+.name2 {
+	font-family: didot;
+	font-size: 32px;
+	color: cadetblue;
+}
+.question2 {
+	font-family: avenir;
+	padding-bottom: 14px;
+	padding-top: 40px;
+	margin-right: 275px;
+	margin-left: 80px;
+	font-style: italic;
+	text-align: left;
+	font-size: 18px;
+}
+.answer2 {
+	font-family: avenir;
+	margin-right: 275px;
+	margin-left: 80px;
+	padding-bottom: 40px;
+	text-align: left;
+	font-size: 18px;
+}
+.creativity {
+	margin-left: 45px;
+	margin-right: 45px;
+	font-size: 32px;
+	font-family: didot;
+	padding-bottom: 15px;
+	padding-top: 40px;
+	color: cadetblue;
+}
+.creativity-container {
+	font-size: 18px;
+	font-family: avenir;
+	margin-left: 80px;
+	margin-right: 300px;
+	padding-bottom: 40px;
+	padding-top: 18px;
+	border-style: solid;
+	border-left: 80px;
+	border-right: 400px;
+	border-color: cadetblue;
+}
+.creativeQ {
+	font-style: italic;
+}
+.question3-container {
+	text-align: right;
+	margin-right: 80px;
+	margin-left: 280px;
+	font-family: avenir;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	font-size: 18px;
+}
+.question3 {
+	font-style: italic;
+	padding-bottom: 14px;
+}
+.everything {
+	font-size: 32px;
+	margin-left: 80px;
+	font-family: didot;
+	padding-bottom: 15px;
+	color: cadetblue;
+}
+.question4 {
+	padding-top: 15px;
+	font-style: italic;
+}
+.question4-container {
+	margin-left: 80px;
+	margin-right: 220px;
+	font-family: avenir;
+	font-size: 18px;
+	padding-bottom: 40px;
+	border-style: solid;
+	border-left: 80px;
+	border-right: 380px;
+	border-color: cadetblue;
+}
+.question5-container {
+	text-align: right;
+	margin-right: 80px;
+	margin-left: 220px;
+	font-family: avenir;
+	padding-bottom: 40px;
+	font-size: 18px;
+}
+.question5 {
+	font-style: italic;
+	font-size: 18px;
+	padding-bottom: 14px;
+	padding-top: 40px;
+}
+.bun {
+	font-size: 32px;
+	margin-left: 45px;
+	margin-right: 80px;
+	font-family: didot;
+	padding-bottom: 14px;
+	text-align: left;
+	color: cadetblue;
+	padding-top: 40px;
+	margin-left: 45px;
+
+}
+.steamed-container {
+	margin-left: 45px;
+	margin-right: 45px;
+	font-family: baskerville;
+	font-size: 18px;
+	padding-bottom: 40px;
+	font-size: 18px;
+}
+.quote {
+	font-style: italic;
+	font-family: avenir;
+	text-align: right;
+	margin-left: 380px;
+	margin-right: 80px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-style: solid;
+	border-left: 380px;
+	border-right: 80px;
+	border-color: cadetblue;
+}
+.body3 {
+	line-height: 20px;
+	font-size: 18px;
+	margin-right: 400px;
+	padding-bottom: 40px;
+}
+
